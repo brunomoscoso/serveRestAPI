@@ -49,5 +49,6 @@ Se você optou por rodar os testes por htmlextra, você gerou um arquivo html co
 ## Contato
 
 email: brunomoscosorodrigues@gmail.com
+
 linkedin: https://www.linkedin.com/in/bruno-moscoso/
   
